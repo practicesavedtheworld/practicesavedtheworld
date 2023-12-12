@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=practicesavedtheworld&hide=html&layout=compact&langs_count=10&include_all_commits=true&count_private=true)
 
 ### Contacts 
 
